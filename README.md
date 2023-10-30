@@ -1,5 +1,6 @@
 # Proxy Grabber
-![youtube-video-gif](https://github.com/lamlaikayassine/Shimano-Power-Bi-Report/assets/27789372/7eb6aca9-7f10-40c9-85e8-c5424f6e7b31)
+
+![youtube-video-gif (1)](https://github.com/lamlaikayassine/Shimano-Power-Bi-Report/assets/27789372/e9ac48fb-3072-4104-b426-45b776e0b608)
 
 Proxy Grabber is a practical tool that simplifies the process of gathering proxy server information. It's an open-source project that works by scraping data from a given website using wget and fetching data to keep only the free trial proxy servers provided by those websites. It then compiles these proxies into one list for your convenience.
 
