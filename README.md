@@ -1,7 +1,50 @@
-# proxy_grabber
-# make sur that the ( wget ) commend is intalled in your machine
-# this script is a open soure project
-# the first version created by yassine lamlaika under that name "proxy grabber 1.0 v"
-# contact me in whatsaap +212634906365
-# contact me in facebook yassine--wissal@oulook.fr
-# Tutorial : https://youtu.be/_CSMfBOCAws
+# Proxy Grabber
+
+
+
+Proxy Grabber is a practical tool that simplifies the process of gathering proxy server information. It's an open-source project that works by scraping data from a given website using wget and fetching data to keep only the free trial proxy servers provided by those websites. It then compiles these proxies into one list for your convenience.
+
+## Problem
+
+Finding free and reliable proxy servers can be a challenging task, requiring manual searching and verification. It can be frustrating and time-consuming.
+
+### Agitate
+
+Imagine spending hours searching for free proxy servers, only to end up with unreliable ones. It's a never-ending cycle of disappointment and wasted time.
+
+## Solution
+
+But what if there was a way to simplify the process and ensure you always have access to the best proxies?
+
+## Future
+
+With Proxy Grabber, you can say goodbye to the hassle of manual searching.
+
+## Getting Started
+
+To get started with Proxy Grabber, follow these steps:
+
+1. Install `wget` command on your machine.
+2. Clone the repository to your local machine.
+3. Change into the project directory.
+4. Make the script executable.
+5. Run the script.
+
+
+
+## Performance
+
+Proxy Grabber automates the collection of proxy information, saving you time and effort. It refreshes the proxy list every 24 hours, ensuring you always have the latest and most reliable proxies.
+
+## Legal and Ethical Use
+
+While Proxy Grabber makes proxy server acquisition more accessible, it's crucial to emphasize responsible and legal use of these proxies. Unlawful or unethical use of proxies can have legal consequences and harm the network infrastructure of others.
+
+## Skills
+
+- Bash
+- Linux
+- GitHub
+- Web Scraping
+- Data Retrieval
+
